@@ -30,8 +30,6 @@ This project is a **Black Hole Image Simulator** that visualizes gravitational l
 3. Run the simulator
    ```sh
    python main.py
-
-
 ## Usage
 - **Up/Down Arrow Keys**: Increase or decrease black hole mass.
 - **Observe Light Paths**: Watch how light bends near the event horizon.
